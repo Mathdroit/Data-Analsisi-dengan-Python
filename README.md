@@ -1,4 +1,4 @@
-# Data-Analsisi-dengan-Python
+# Data-Analisis-dengan-Python
 
 This is a simple dashboard to display the data from the day.csv file.
 
